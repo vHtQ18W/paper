@@ -434,16 +434,16 @@ img {
   padding: 20px;
   white-space: inherit;
 }
-.post-content code {
-  margin-left: 4px;
-  margin-right: 4px;
-  padding: 4px 6px;
-  font-family: Menlo, Monaco, 'Courier New', Courier, monospace;
-  font-size: 0.8em;
-  white-space: pre-wrap;
-  background: #f7f7f8;
-  border-radius: 2px;
-}
+/* .post-content code { */
+/*   margin-left: 4px; */
+/*   margin-right: 4px; */
+/*   padding: 4px 6px; */
+/*   font-family: Menlo, Monaco, 'Courier New', Courier, monospace; */
+/*   font-size: 0.8em; */
+/*   white-space: pre-wrap; */
+/*   background: #f7f7f8; */
+/*   border-radius: 2px; */
+/* } */
 
 .post-content .highlight {
   margin-bottom: 32px;
